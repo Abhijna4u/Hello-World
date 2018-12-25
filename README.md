@@ -1,2 +1,5 @@
 # Hello-World
-New Repository
+
+Hey Guys, 
+
+This is Abhi from India, trying to learn coding for the first time. 
